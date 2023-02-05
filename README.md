@@ -6,6 +6,8 @@
 
 Team project created in collaboration with Andrej Kurusiov.
 
+![screenshot](screenshot.png)
+
 ## About
 
 The aim of this project is to find the biggest square on a map, avoiding obstacles.
