@@ -12,7 +12,8 @@ The aim of this project is to find the biggest square on a map, avoiding obstacl
 
 - A file containing the map is passed as an argument for the program (several files can be passed as well).
 - The first line of the map contains information on how to read the map:
-  - The number of lines on the map; * The ”empty” character;
+  - The number of lines on the map;
+  - The ”empty” character;
   - The ”obstacle” character;
   - The ”full” character.
 - The aim of the program is to replace '"empty" characters' by '"full" characters' in order to represent the biggest square possible.
@@ -24,6 +25,8 @@ Definition of a valid map:
 - At each end of line, there’s a line break.
 - The characters on the map can only be those introduced in the first line.
 - In case of an invalid map, program displays map error on the error output followed by a line break. Program will then move on to the next map.
+
+See further instructions in [Subject PDF](https://github.com/pixelsnow/42_BSQ/blob/main/bsq.en.pdf)
 
 ## Our approach
 
@@ -53,4 +56,4 @@ BSQ can also take in standard input, for example:
 
 `cat test_maps/50x20 | ./bsq `
 
-./bsq executable was compiled to work on school iMacs. It is **recommeneded to recompile** it for your own machine using `make re` before running.
+./bsq executable was compiled to work on school iMacs. It is **recommended to recompile** it for your own machine using `make re` before running.
