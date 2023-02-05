@@ -6,7 +6,7 @@
 
 Team project created in collaboration with Andrej Kurusiov.
 
-![screenshot](screenshot.png =250x250)
+<img src="screenshot.png" width="500" />
 
 ## About
 
