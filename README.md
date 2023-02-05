@@ -1,12 +1,14 @@
 # 42_BSQ
 
-✅ Passed Moulinette with 100/100 ✅
-
-❌ Failed peer evaluations only due to an *accidental wildcard in Makefile*, which counted as a Norm violation. It's a pretty straightforward fix. Everything else about the project is good.
+The aim of this project is to find the biggest square on a map, avoiding obstacles.
 
 Team project created in collaboration with Andrej Kurusiov.
 
 <img src="screenshot.png" width="500" />
+
+✅ Passed Moulinette with 100/100 ✅
+
+❌ Failed peer evaluations only due to an *accidental wildcard in Makefile*, which counted as a Norm violation. It's a pretty straightforward fix. Everything else about the project is perfectly fine.
 
 ## About
 
