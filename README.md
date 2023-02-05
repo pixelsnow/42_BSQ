@@ -1,6 +1,8 @@
 # 42_BSQ
 
-✅ Passed Moulinette with 100/100 ✅ Failed peer evaluations only due to a *forgotten wildcard in Makefile*, which counted as Norm violation
+✅ Passed Moulinette with 100/100 ✅
+
+❌ Failed peer evaluations only due to an *accidental wildcard in Makefile*, which counted as a Norm violation. It's a pretty straightforward fix. Everything else about the project is good.
 
 ## About
 
