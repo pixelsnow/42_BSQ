@@ -36,9 +36,9 @@ See further instructions in [Subject PDF](https://github.com/pixelsnow/42_BSQ/bl
 
 - Logic of finding the biggest square was done using **dynamic programming**.
 
-- As the length of the input was unknown and we wanted to optimise memory usage, we decided to handle input with a **queue implemented using a linked list**.
+- The most complicated part of the process was not actually finding the square, but handling input. As the length of the input was unknown and we wanted to optimise memory usage, we decided to handle input with a **queue implemented using a linked list**.
 
-- Our approach resulted in code that is perhaps more bulky than some other implementations, but our program demostrates decent speed when handling big files and minimal memory usage.
+- Our approach resulted in code that is perhaps more bulky than some other implementations, but our program demonstrates decent speed when handling big files and minimal memory usage.
 
 ## What we learned
 
