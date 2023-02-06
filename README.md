@@ -50,7 +50,7 @@ See further instructions in [Subject PDF](https://github.com/pixelsnow/42_BSQ/bl
 
 - Queues, linked lists and memory handling - all together our system ended up being quite complex and it was a great experience perfecting it.
 
-- Always triple check every file manually to make sure it doesn't violate the Norm 🥲
+- The importance of triple checking every file manually to make sure it doesn't violate the Norm 🥲
 
 ## How to run
 
