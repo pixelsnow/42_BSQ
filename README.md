@@ -8,11 +8,13 @@ Team project created in collaboration with Andrej Kurusiov.
 
 ✅ Passed Moulinette with 100/100 ✅
 
-❌ Failed peer evaluations only due to an *accidental wildcard in Makefile*, which counted as a Norm violation. It's a pretty straightforward fix. Everything else about the project is perfectly fine.
+❌ Failed peer evaluations only due to an *accidental wildcard in Makefile*, which counted as a Norm violation. ❌
+
+It's a pretty straightforward fix. Everything else about the project is perfectly fine.
 
 ## About
 
-The aim of this project is to find the biggest square on a map, avoiding obstacles.
+The aim of this project was to find the biggest square on a map, avoiding obstacles.
 
 - A file containing the map is passed as an argument for the program (several files can be passed as well).
 - The first line of the map contains information on how to read the map:
